@@ -1,0 +1,54 @@
+﻿  Hinhvuong.cpp
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(10): warning C4244: '=' : conversion from 'LONG' to 'float', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(11): warning C4244: '=' : conversion from 'LONG' to 'float', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(12): warning C4244: '=' : conversion from 'LONG' to 'float', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(13): warning C4244: '=' : conversion from 'LONG' to 'float', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(18): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(19): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(20): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(21): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(26): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(27): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(29): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(30): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(35): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(35): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(35): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(35): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(39): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(39): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(39): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(39): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(48): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(48): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(48): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(48): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(52): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(52): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(52): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(52): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(61): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(61): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(61): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(61): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(65): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(65): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(65): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(65): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(72): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(72): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(72): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(72): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(76): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(76): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(76): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(76): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(98): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(99): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(106): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\wenot\onedrive\máy tính\vethu1\vethu1\hinhvuong.cpp(107): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  vethu1View.cpp
+  vethu1.cpp
+  vethu1.vcxproj -> C:\Users\wenot\OneDrive\Máy tính\vethu1\Debug\vethu1.exe
